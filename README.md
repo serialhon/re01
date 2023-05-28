@@ -1,10 +1,6 @@
-# remote-repo
-The history of my learning programming languages (html/css/javascript).
-
 # html 語法記錄
 ## 網頁開頭：
-一. 在 vscode 中，輸入 'htm' 會自動提示選項，選擇 'html:5' 後按下 TAB鍵。  
-或自行輸入如下 共9行
+一. 在 vscode 中，輸入 'htm' 會自動提示選項，選擇 'html:5' 後按下 TAB鍵。或自行輸入如下 共9行
 
 ```html 
 <!DOCTYPE html>
@@ -18,8 +14,7 @@ The history of my learning programming languages (html/css/javascript).
 </html>
 ```
 
-二.在標籤`</head>`前一行輸入 'lin'會自動提示選項，選擇 'link' 後按下 TAB鍵。  
-常用的.CSS 引入如下
+二.在標籤`</head>`前一行輸入 'lin'會自動提示選項，選擇 'link' 後按下 TAB鍵。常用的.CSS 引入如下
 
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
