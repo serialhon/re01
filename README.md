@@ -1,3 +1,6 @@
+# remote-repo
+The history of my learning programming languages (html/css/javascript).
+
 # html 語法記錄
 ## 網頁開頭：
 一. 在 vscode 中，輸入 'htm' 會自動提示選項，選擇 'html:5' 後按下 TAB鍵。  
@@ -24,17 +27,17 @@
 ```
 
 三.依續畫分網頭、網身、及網腳。  
-1. 網頭:在標籤`<body>`後一行輸入 'div.web-head' 後按下 Enter鍵。  範例  
+1. 網頭:在標籤`<body>`後一行輸入 'div.web-head' 後按下 Enter鍵。  
 ```html
     <div class="web-head">
 ```
 
-2. 網身:在網頭標籤`</div>`後一行輸入 'section.section-bg' 後按下 Enter鍵。  範例
+2. 網身:在網頭標籤`</div>`後一行輸入 'section.section-bg' 後按下 Enter鍵。 
 ```html
     <section class="food-menu section-bg">
 ```
 
-3. 網腳:在網身最後標籤 後一行輸入 'div.web-footer' 後按下 Enter鍵。  範例
+3. 網腳:在網身最後標籤 後一行輸入 'div.web-footer' 後按下 Enter鍵。  
 ```html
     <div class="web-foot"></div>
 ```
