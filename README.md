@@ -22,6 +22,12 @@ The history of my learning programming languages (html/css/javascript).
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="css/styles.css">
+
+<!-- 也可用 @import -->
+<style>
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css";
+@import "css/styles.css";
+</style>
 ```
 
 三.依續畫分網頭、網身、及網腳。  
