@@ -3,7 +3,7 @@ The history of my learning programming languages (html/css/javascript).
 
 ## html 語法記錄
 ### 網頁開頭：
-一. 在 vscode 中，輸入 'htm' 會自動提示選項，選擇 'html:5' 後按下 TAB鍵。或自行輸入如下 共9行
+一. 在 vscode 中，輸入 'htm' 會自動提示選項，選擇 'html:5' 後按下<kbd>Tab</kbd>。或自行輸入如下 共9行
 
 ```html 
 <!DOCTYPE html>
@@ -17,7 +17,7 @@ The history of my learning programming languages (html/css/javascript).
 </html>
 ```
 
-二.在標籤`</head>`前一行輸入 'lin'會自動提示選項，選擇 'link' 後按下 TAB鍵。常用的.CSS 引入如下
+二.在標籤`</head>`前一行輸入 'lin'會自動提示選項，選擇 'link' 後按下<kbd>Tab</kbd>。常用的.CSS 引入如下
 
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -25,17 +25,17 @@ The history of my learning programming languages (html/css/javascript).
 ```
 
 三.依續畫分網頭、網身、及網腳。  
-1. 網頭:在標籤`<body>`後一行輸入 'div.web-header' 後按下 Enter鍵。  
+1. 網頭:在標籤`<body>`後一行輸入 'div.web-header' 後按下<kbd>Enter</kbd>。  
 ```html
     <div class="web-header">
 ```
 
-2. 網身:在網頭標籤`</div>`後一行輸入 'section.section-bg' 後按下 Enter鍵。 
+2. 網身:在網頭標籤`</div>`後一行輸入 'section.section-bg' 後按下<kbd>Enter</kbd>。 
 ```html
     <section class="food-menu section-bg">
 ```
 
-3. 網腳:在網身最後標籤 後一行輸入 'div.web-footer' 後按下 Enter鍵。  
+3. 網腳:在網身最後標籤 後一行輸入 'div.web-footer' 後按下<kbd>Enter</kbd>。  
 ```html
     <div class="web-footer"></div>
 ```
@@ -61,7 +61,7 @@ The history of my learning programming languages (html/css/javascript).
 }
 ```
 
-三.下面2種語法是相同的結果，依不同情況使用，==加入到二.程式碼內==。
+三.下面2種語法是相同的結果，依不同情況使用，<span style="border-bottom: 1px solid red;">加入到二.程式碼內</span>。
 ```css
 /*語法一*/
 .twmc-bg
