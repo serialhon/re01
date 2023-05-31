@@ -61,7 +61,7 @@ The history of my learning programming languages (html/css/javascript).
 }
 ```
 
-三.下面2種語法是相同的結果，依不同情況使用，$\overline{加入到二.程式碼內}$。
+三.下面2種語法是相同的結果，依不同情況使用，*加入到二.程式碼內*。
 ```css
 /*語法一*/
 .twmc-bg
